@@ -11,7 +11,7 @@
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My auto deployment  job is done with jenkins</h1>
-      <h2 class="text-center">BHARATH R</h2>
+      <h2 class="text-center">DIWAKAR R</h2>
   </div>
 </body>
 </html>
